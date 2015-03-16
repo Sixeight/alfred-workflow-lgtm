@@ -9,7 +9,7 @@ Call motemen's [lgtm.sh](https://github.com/motemen/lgtm.sh) from Alfred.
 Substitution from `pup` to `/path/to/pup` because Alfred workflow cannot access your environment variable.
 
 ```
-$ curl -Lo- https://raw.githubusercontent.com/Sixeight/alfred-workflow-lgtm/master/lgtm-patch.sh
+$ curl -Lo- https://raw.githubusercontent.com/Sixeight/alfred-workflow-lgtm/master/lgtm-patch.sh | bash
 ```
 
 ### Download and run workflow file
