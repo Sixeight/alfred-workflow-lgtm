@@ -18,7 +18,7 @@ $ curl -Lo- https://raw.githubusercontent.com/Sixeight/alfred-workflow-lgtm/mast
 
 ## LICENSE
 
-MIT (see also LICENSE.txt)
+MIT (see [LICENSE.txt](https://raw.githubusercontent.com/Sixeight/alfred-workflow-lgtm/master/LICENSE.txt))
 
 ## Contributing
 
