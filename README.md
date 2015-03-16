@@ -1,3 +1,5 @@
+[![LGTM](http://lgtm.herokuapp.com/http://38.media.tumblr.com/e38dd7bcbdd9922e64ce2adb742f8b71/tumblr_n8obssKoaU1tfp3xbo1_500.gif)](http://lgtm.herokuapp.com/)
+
 # Alfred Workflow Lgtm
 
 Call motemen's [lgtm.sh](https://github.com/motemen/lgtm.sh) from Alfred.
