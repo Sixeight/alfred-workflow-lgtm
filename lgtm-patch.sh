@@ -5,7 +5,7 @@ function main() {
   local pup_path=`which pup`
 
   sed -i.orig "s! pup ! $pup_path !" "$lgtm_path"
-  diff "$lgtm_path" "${lgtm_path}.orig"
+  diff "${lgtm_path}.orig" "$lgtm_path"
 }
 
 main
