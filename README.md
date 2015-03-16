@@ -6,7 +6,7 @@ Call motemen's [lgtm.sh](https://github.com/motemen/lgtm.sh) from Alfred.
 
 ## Install
 
-### Patch to lgtm.sh.
+### 1. Patch to lgtm.sh.
 
 Substitution from `pup` to `/path/to/pup` because Alfred workflow cannot access your environment variable.
 
@@ -14,9 +14,20 @@ Substitution from `pup` to `/path/to/pup` because Alfred workflow cannot access 
 curl -Lo- https://raw.githubusercontent.com/Sixeight/alfred-workflow-lgtm/master/lgtm-patch.sh | bash
 ```
 
-### Download and run workflow file
+### 2. Download and run workflow file
 
 [DOWNLOAD](https://github.com/Sixeight/alfred-workflow-lgtm/raw/master/lgtm.alfredworkflow)
+
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/Sixeight/alfred-workflow-lgtm/master/screenshot.png)
+
+## Keywords
+
+|name|description|
+|:--|:--|
+|lgtm|Copy LGTM image as URL|
+|lgtm -m|Copy LGTM image as Markdown|
 
 ## LICENSE
 
