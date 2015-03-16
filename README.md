@@ -14,7 +14,7 @@ $ curl -Lo- https://raw.githubusercontent.com/Sixeight/alfred-workflow-lgtm/mast
 
 ### Download and run workflow file
 
-TODO
+[DOWNLOAD](https://github.com/Sixeight/alfred-workflow-lgtm/raw/master/lgtm.alfredworkflow)
 
 ## LICENSE
 
